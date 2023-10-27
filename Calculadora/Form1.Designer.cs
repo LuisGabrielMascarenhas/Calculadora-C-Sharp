@@ -121,7 +121,7 @@ namespace Calculadora
             // 
             this.labelResultado.AutoSize = true;
             this.labelResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelResultado.Location = new System.Drawing.Point(383, 228);
+            this.labelResultado.Location = new System.Drawing.Point(364, 230);
             this.labelResultado.Name = "labelResultado";
             this.labelResultado.Size = new System.Drawing.Size(36, 39);
             this.labelResultado.TabIndex = 10;
